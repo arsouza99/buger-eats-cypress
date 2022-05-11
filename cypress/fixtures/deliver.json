@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Anderson Souza",
+    "cpf": "72774003059",
+    "email": "teste_js@gmail.com",
+    "whatsapp": "11972103303",
+    "address": {
+      "zipcode": "04249100",
+      "street": "Rua Salvador Pedroso",
+      "number": "100",
+      "complement": "Ap. 99",
+      "district": "Sacomã",
+      "city_state": "São Paulo/SP"
+    },
+    "deliver_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  },
+  "cpf_invalid": {
+    "name": "Invalid CPF",
+    "cpf": "727740030AA",
+    "email": "teste_js@gmail.com",
+    "whatsapp": "11972103399",
+    "address": {
+      "zipcode": "04249100",
+      "street": "Rua Salvador Pedroso",
+      "number": "100",
+      "complement": "Ap. 99",
+      "district": "Sacomã",
+      "city_state": "São Paulo/SP"
+    },
+    "deliver_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  },
+  "email_invalid": {
+    "name": "Anderson Souza",
+    "cpf": "72774003059",
+    "email": "teste.gmail.com",
+    "whatsapp": "11972103303",
+    "address": {
+      "zipcode": "04249100",
+      "street": "Rua Salvador Pedroso",
+      "number": "100",
+      "complement": "Ap. 99",
+      "district": "Sacomã",
+      "city_state": "São Paulo/SP"
+    },
+    "deliver_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  }
+}
